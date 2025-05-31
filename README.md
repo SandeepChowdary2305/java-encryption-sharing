@@ -1,5 +1,5 @@
 # java-encryption-sharing
-Java project for secure file encryption and local file sharing using AES and sockets.
+Mini Java project for secure file encryption and local file sharing using AES and sockets.
 
 ## 🔐 Secure File Encryption, Decryption & Sharing System
 
@@ -31,6 +31,7 @@ Secure-File-Encryption-System/
 │   └── network/    # File transfer logic
 ├── build/          # NetBeans build output
 ├── nbproject/      # NetBeans project config
+├── screenshots/    # Screenshot of Output
 ├── test/           # Test folder (optional)
 ├── LICENSE         # MIT License
 ├── README.md       # You're reading it
@@ -64,7 +65,10 @@ Secure-File-Encryption-System/
 No database required. Everything runs locally and securely!
 
 ---
+## 📸 Screenshots 
+![Login](./screenshots/1.jpeg) ![Encrypt and Select](./screenshots/2.jpeg) ![Key](./screenshots/3.jpeg) ![Save](./screenshots/4.jpeg) ![saved](./screenshots/5.jpeg) ![send](./screenshots/6.jpeg) ![select file](./screenshots/7.jpeg) ![click ip adress](./screenshots/8.jpeg) ![sent](./screenshots/9.jpeg) ![save](./screenshots/10.jpeg) ![decrypt key](./screenshots/11.jpeg) ![save Decrypt](./screenshots/12.jpeg) ![saved](./screenshots/13.jpeg)
 
+---
 ## 💡 Real-World Use Case: Healthcare File Security
 
 This kind of system is ideal in places like hospitals where:
